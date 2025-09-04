@@ -1,2 +1,2 @@
 # Insomnia
-sleep and health comparasion
+sleep and health comparison
