@@ -1,2 +1,2 @@
-# Insomnia
+# Sleep disorder
 sleep and health comparison
